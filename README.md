@@ -1,8 +1,5 @@
 ### Hi there 👋  IAM YASITHA OFFICAL 💞✨
 
-<!--
-**kingYASITHA/kingYASITHA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 <div align="center">
   <img border-radius: 15px src="https://i.ibb.co/WGNfQhB/IMG-20210820-001112.jpg" width="200" height="200"/>
