@@ -1,4 +1,4 @@
-### Hi there 👋  IAM YASITHA OFFICAL 💞✨
+### Hi theire 👋  IAM YASITHA OFFICAL 💞✨
 
 Here are some ideas to get you started:
 <div align="center">
@@ -22,10 +22,10 @@ Project created by <a href="https://.github.com/kingYASITHA"> YASITHA OFFICAL</a
   <a href="https://.github.com/kingYASITHA">
     <img src="https://img.shields.io/github/repo-size/YASITHA OFFICAL/KING GOLD?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/YASITHA772/followers"><img title="Followers" src="https://img.shields.io/github/followers/KING GOLG?color=blue&style=flat-square"></a>
-<a href="https://github.com/YASITHA772/KING GOLD/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/YASITHA/KING GOLD?color=blue&style=flat-square"></a>
-<a href="https://github.com/YASITHA772/KING GOLD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/YASITHA/KING GOLD?color=blue&style=flat-square"></a>
-<a href="https://github.com/YASITHA772/KING GOLD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/YASITHA/KING GOLD?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/kingYASITHA/followers"><img title="Followers" src="https://img.shields.io/github/followers/KING GOLG?color=blue&style=flat-square"></a>
+<a href="https://github.com/kingYASITHA/KING GOLD/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/YASITHA/KING GOLD?color=blue&style=flat-square"></a>
+<a href="https://github.com/kingYASITHA/KING GOLD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/YASITHA/KING GOLD?color=blue&style=flat-square"></a>
+<a href="https://github.com/kingYASITHA/KING GOLD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/YASITHA/KING GOLD?label=Watchers&color=blue&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 </p>
 ## ?? Guide
@@ -36,13 +36,13 @@ Project created by <a href="https://.github.com/kingYASITHA"> YASITHA OFFICAL</a
   ### Simple Method
 
 
-[![Run on Repl.it](https://replit.com/@YasithaUdayang1/KING-GOLD-QR#index.js)
+[![Run on Repl.it](https://replit.com/@YasithaUdayang1/KING-GOLD-QR#index.js)]
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](http://heroku.com/deploy?templAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
      </div>
 <br>
 <br >
-If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
+If Repl.it not working Try Terhttps://chat.whatsapp.com/KOYgS4x4GeFGezrUbGetFGmux for Qr scanning.Just Copy the Link Below in Termux
 ```
 bash <(curl -L https://t.ly/tHxh)
 ``` 
