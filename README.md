@@ -36,7 +36,7 @@ Project created by <a href="https://.github.com/kingYASITHA"> YASITHA OFFICAL</a
   ### Simple Method
 
 
-[![Run on Repl.it](https://replit.com/@YasithaUdayang1/KING-GOLD-QR#index.js)
+[![Run on Repl.it](https://replit.com/@YasithaUdayang1/KING-GOLD-QR#index.js)]
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](http://heroku.com/deploy?templAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
      </div>
